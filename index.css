@@ -1,0 +1,7 @@
+.btn{
+    position: relative;
+    font-size: 1.7rem;
+    color: white;
+    background: #b62f4f;
+    cursor: pointer;
+}
